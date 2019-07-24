@@ -51,6 +51,6 @@ body {
   }
   
   .modal-body, .modal-footer, .modal-header{
-    background: red;
-    border: none;
+    background: rgb(85, 209, 27);
+    border: #333 solid 1.5px;
   }
