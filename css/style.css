@@ -35,7 +35,7 @@ body {
   
   #home-section .fas,
   #create-section .fas {
-    color: #008ed6;
+    color: #fff;
     background:red;
     padding: 5px;
     border-radius: 5px;
@@ -47,6 +47,7 @@ body {
     color: #fff;
     padding: 5px;
     border-radius: 5px;
+    border: solid 2px red;
   }
   
   .modal-body, .modal-footer, .modal-header{
